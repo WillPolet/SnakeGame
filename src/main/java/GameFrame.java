@@ -11,5 +11,6 @@ public class GameFrame extends JFrame {
         this.setVisible(true);
         this.setLocationRelativeTo(null);
         //this.dispose(); close the instance without closing program, ok it's what I want but not here.
+
     }
 }
